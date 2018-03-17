@@ -52,9 +52,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraScript.cs" />
+     <Compile Include="Assets\Scripts\Collision and Trigger\CollissionsEx.cs" />
+     <Compile Include="Assets\Scripts\Collision and Trigger\TriggerEx.cs" />
      <Compile Include="Assets\Scripts\ColorChanger.cs" />
      <Compile Include="Assets\Scripts\ColorSwitch.cs" />
      <Compile Include="Assets\Scripts\Functions.cs" />
+     <Compile Include="Assets\Scripts\Lesson3.cs" />
+     <Compile Include="Assets\Scripts\Lesson3_Ex1.cs" />
+     <Compile Include="Assets\Scripts\nomal_one.cs" />
      <Compile Include="Assets\Scripts\OperatorExamples.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
  <Reference Include="UnityEngine.UI">

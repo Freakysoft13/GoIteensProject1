@@ -2,25 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Functions : MonoBehaviour {
+public class Functions : MonoBehaviour
+{
+	int health;
 
-	void Start () 
+	void Update ()
 	{
-		print ("1");
-	}
-	
-	void Update () 
-	{
-		print ("2");
-	}
-
-	void Awake ()
-	{
-		print ("3");
+		if (Input.GetKeyDown (KeyCode.Space)) {
+			health = health - 10;
+			if (health > 20) {
+				print (health);
+			} else if (health == 20) {
+			}
+		}
 	}
 
-	void FixedUpdate()
-	{
-		print ("4");
-	}
 }
