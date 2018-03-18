@@ -62,6 +62,7 @@
      <Compile Include="Assets\Scripts\nomal_one.cs" />
      <Compile Include="Assets\Scripts\OperatorExamples.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PlayerMover.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/unity2017.3/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -1,13 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Functions.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
     <Files>
       <File FileName="Assets\Scripts\nomal_one.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\OperatorExamples.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Lesson3.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Lesson3_Ex1.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Collision and Trigger\TriggerEx.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Functions.cs" Line="1" Column="22" />
+      <File FileName="Assets\Scripts\Functions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="33" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
